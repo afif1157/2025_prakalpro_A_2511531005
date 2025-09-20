@@ -31,13 +31,6 @@ public class ContohChar {
 		String kata = "" + huruf1 + huruf2 + angka + simbol;
 		System.out.println("Gabungan char menjadi string:" + kata);
 		
-		
-		
-		
-		
-		
-			
-		
 	}
 	
 
